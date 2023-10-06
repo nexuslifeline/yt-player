@@ -1,0 +1,10 @@
+@import '../../shared/styles/mixins.module.scss';
+
+.container {
+  display: flex;
+  margin: 30px 0;
+
+  @include for-size(tablet-landscape-down) {
+    flex-direction: column;
+  }
+}
