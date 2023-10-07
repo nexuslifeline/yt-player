@@ -43,7 +43,9 @@ To make use of YouTube data in your app, you'll need a YouTube API Key. Follow t
   ```
   REACT_APP_YT_API_KEY=your-youtube-api-key-here
   ```
-  Replace your-youtube-api-key-here with your actual YouTube API Key.
+  Replace **your-youtube-api-key-here** with your actual YouTube API Key.
+
+
 11. Save the .env file.
 
 ### Development Mode
